@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Welcome to John's GitHub Organization!
+## Welcome to whatever this is
 
 Hey there! 👋 I'm Eber, a passionate coder and music enthusiast. Welcome to my GitHub organization, where I just have fun coding :>
 
