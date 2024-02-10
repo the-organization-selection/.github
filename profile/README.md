@@ -2,7 +2,7 @@
 
 ## Welcome to whatever this is
 
-Hey there! 👋 I'm Eber, a passionate coder and music enthusiast. Welcome to my GitHub organization, where I just have fun coding :>
+Hey there! 👋 I'm Grant or whatever, a passionate coder and music enthusiast. Welcome to my GitHub organization, where I just have fun coding :>
 
 ## What You'll Find Here
 
