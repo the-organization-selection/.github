@@ -2,7 +2,7 @@
 
 ## Welcome to whatever this is
 
-Hey there! 👋 I'm Grant or whatever, a passionate coder and music enthusiast. Welcome to my GitHub organization, where I just have fun coding :>
+Hey there! 👋 I'm Grant or whatever, a passionate coder and music enthusiast. Welcome to my GitHub organization, where I have fun coding :>
 
 ## What You'll Find Here
 
@@ -17,7 +17,7 @@ There should be info contact on my profile on GitHub
 
 ## Contributing
 
-If you're interested in collaborating on projects or have ideas for improvements, don't hesitate to open an issue or submit a pull request. I'm always open to new ideas and contributions from the community!
+If you're interested in collaborating on projects or have ideas for improvements, don't hesitate to open an issue or submit a pull request. I'm always open to new ideas and contributions from the community :>
 
 ## License
 
